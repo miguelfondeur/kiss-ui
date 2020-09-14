@@ -6,6 +6,7 @@
 .page-wrapper > main {
 	display: flex;
 	flex: 1;
+	flex-direction: column;
 }
 .page-wrapper > main .aside  {
 	max-width: 250px;
