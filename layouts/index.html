@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "base/head.html" . }}
+  <body class="preload">
+
+	<div class="page-wrapper">
+        <!-- Site Header -->
+        {{ partial "base/header.html" . }}
+
+        <!-- Site Content -->
+        <main>
+            <!-- Sidebar -->
+            {{ partial "base/sidebar.html" . }}
+            <div class="container">
+                <h1></h1>
+            </div>
+        </main>
+      
+		<!-- Site Footer -->
+    	{{ partial "base/footer.html" . }}
+    </div>
+    
+    <!-- Style -->
+    <script src="/js/scripts.js"></script>
+  </body>
+</html>

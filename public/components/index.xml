@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/components/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/components/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/accordion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/accordion/</guid>
+      <description>title: &amp;ldquo;Accordion&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/audio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/audio/</guid>
+      <description>title: &amp;ldquo;Audio&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/banners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/banners/</guid>
+      <description>title: &amp;ldquo;Banners&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/buttons/</guid>
+      <description>title: &amp;ldquo;Button&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/dropdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/dropdown/</guid>
+      <description>title: &amp;ldquo;Dropdown&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/icons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/icons/</guid>
+      <description>title: &amp;ldquo;Icons&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/images/</guid>
+      <description>title: &amp;ldquo;Images&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/inputs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/inputs/</guid>
+      <description>title: &amp;ldquo;Inputs&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/links/</guid>
+      <description>title: &amp;ldquo;Links&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/picture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/picture/</guid>
+      <description>title: &amp;ldquo;Picture&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/progress/</guid>
+      <description>title: &amp;ldquo;Progress&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/tool-tip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/tool-tip/</guid>
+      <description>title: &amp;ldquo;Tool Tip&amp;rdquo; date: draft: false </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/components/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/components/video/</guid>
+      <description>title: &amp;ldquo;Video&amp;rdquo; date: draft: false </description>
+    </item>
+    
+  </channel>
+</rss>

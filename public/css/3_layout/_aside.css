@@ -1,0 +1,23 @@
+/* =============================================== *\
+   Sidebar Styles
+\* =============================================== */
+
+/* Page Wrapper */
+.page-wrapper > main {
+	
+}
+.page-wrapper > main .aside  {
+	max-width: 250px;
+	padding: 38px 0;
+    background-color: #eee;
+	height: 100vh;
+	top: 72px;
+	
+	position: -webkit-sticky;
+	position: sticky;
+}
+.page-wrapper > main .aside nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0 38px;
+}
