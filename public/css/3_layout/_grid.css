@@ -11,4 +11,11 @@
 .grid > div {
 	border: 1px solid #ccc;
 	padding: 10px;
+	overflow: scroll;
+	display: flex;
+    flex-direction: column;
+}
+
+.grid > div > details {
+	margin-top: auto;
 }

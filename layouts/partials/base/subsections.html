@@ -1,16 +1,14 @@
-
-    <aside class="subsections">
-        <ul>
-            {{ with .Params.sections }}
-                {{ range . }}
-                    <h3>{{ .name }}</h3>
-                    {{ range .subsections }}
-                        <li>
-                            <a href="#{{ .id }}">{{ .name }}</a>
-                        </li>
-                    {{ end }}
+<aside class="subsections">
+    <ul>
+        {{ with .Params.sections }}
+            {{ range . }}
+                <h3>{{ .name }}</h3>
+                {{ range .subsections }}
+                    <li>
+                        <a href="#{{ .id }}">{{ .name }}</a>
+                    </li>
                 {{ end }}
             {{ end }}
-        </ul>
-    </aside>
-
+        {{ end }}
+    </ul>
+</aside>

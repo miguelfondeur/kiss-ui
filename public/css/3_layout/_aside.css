@@ -4,7 +4,9 @@
 
 /* Page Wrapper */
 .page-wrapper > main {
-	
+	display: flex;
+	flex: 1;
+	flex-direction: column;
 }
 .page-wrapper > main .aside  {
 	max-width: 250px;
@@ -20,4 +22,19 @@
 	list-style: none;
 	margin: 0;
 	padding: 0 38px;
+}
+
+
+aside.subsections ul {
+	list-style: none;
+}
+aside.subsections ul a {
+	text-decoration: none;
+	padding: 2px 0;
+	display: block;
+	color: #71768B;
+}
+aside.subsections ul h3 {
+	margin-top: 0;
+	padding-top: 20px;
 }
