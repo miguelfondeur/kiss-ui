@@ -7,8 +7,11 @@ menu:
   main:
     weight: 1
 ---
-
-Formats
-  HTML
-  Hugo
-  Javascript
+<section id="">
+  <div class="container">
+    <h2>How To Build</h2>
+    <h3>HTML</h3>
+    <h3>Javascript</h3>
+    <h3>Hugo</h3>
+  </div>
+</section>
